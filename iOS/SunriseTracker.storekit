@@ -1,0 +1,29 @@
+{
+  "identifier": "sunrisetrip",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "sunrisetrip_pro",
+      "localizations": [
+        {
+          "description": "Unlimited entries, a photo gallery, and a best-of collection view.",
+          "displayName": "Sunrise Tracker Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "sunrisetrip_pro",
+      "referenceName": "Sunrise Tracker Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
